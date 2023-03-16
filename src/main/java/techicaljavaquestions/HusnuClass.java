@@ -1,3 +1,5 @@
+package techicaljavaquestions;
+
 public class HusnuClass {
     public static void main(String[] args) {
 
