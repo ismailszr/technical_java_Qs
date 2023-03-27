@@ -15,7 +15,7 @@ Ex: if user enters 6 output will be 112358
 
 
     Scanner input = new Scanner(System.in);
-    System.out.println("How many numbers do you see in the Fibonacci sequence?");
+    System.out.println("How many numbers would you like to see in the Fibonacci sequence?");
     int num = input.nextInt();
 
         System.out.println("Your Fibonacci sequence is: ");
